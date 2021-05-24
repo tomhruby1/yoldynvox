@@ -8,5 +8,6 @@ Install NVIDIA container toolkit: https://docs.nvidia.com/datacenter/cloud-nativ
 
 Download docker file:....
 
-
-  docker run -it --gpus all -v /path_to_shared_folder/:/root/shared --net=host yoldynvox
+Run docker container:
+      
+      docker run -it --gpus all -v /path_to_shared_folder/:/root/shared --net=host yoldynvox
