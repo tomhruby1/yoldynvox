@@ -1,0 +1,6 @@
+[submodule "vox_obj_db"]
+	path = vox_obj_db
+	url = https://github.com/tomhruby1/vox_obj_db
+[submodule "yolact_ros"]
+	path = yolact_ros
+	url = https://github.com/tomhruby1/yolact_ros
