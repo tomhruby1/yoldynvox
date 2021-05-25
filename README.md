@@ -6,7 +6,7 @@ Install Docker
 
 Install NVIDIA container toolkit: https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/overview.html
 
-Download and import docker container: https://drive.google.com/drive/folders/1afrM0u53tRpxsok8qcqglgiy6NG7on6O?usp=sharing
+Download and import docker container (large ~ 30GB): https://drive.google.com/drive/folders/1afrM0u53tRpxsok8qcqglgiy6NG7on6O?usp=sharing
 
 
 
